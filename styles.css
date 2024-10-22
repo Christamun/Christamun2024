@@ -24,6 +24,12 @@ h1 {
     margin: 20px 0;
 }
 
+h2 {
+    color: #baa806;
+    margin: 20px 0;
+}
+
+
 p {
     color: #000000;
     margin: 10px 0;
@@ -50,6 +56,11 @@ p {
 
 .social-links {
     margin-top: 20px;
+}
+
+.banner {
+    text-align: center;
+    padding: 20px;
 }
 
 .social-icon {
